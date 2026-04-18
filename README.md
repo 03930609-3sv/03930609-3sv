@@ -14,5 +14,4 @@ Soy un Docente desarrollador en formación actualizandome para crear soluciones 
 
 
 ### Contacto
-*   Celular 77358544
 *   03930609-3@clases.edu.sv
