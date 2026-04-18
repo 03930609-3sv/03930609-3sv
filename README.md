@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, soy Eugenio Francisco Mejía Alvarado!
 
-<!--
-**03930609-3sv/03930609-3sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+Soy un Docente desarrollador en formación actualizandome para crear soluciones tecnológicas. Actualmente, estoy expandiendo mis conocimientos en el desarrollo de software.
 
-Here are some ideas to get you started:
+### Tecnologías
+*   **Lenguajes de Programación:** Python,VS Code, HTML.
+*   **Herramientas de Google Workspace:** Google Classroom, Gmail, Google Meet, Google Chat, Google Calendar, Documentos, Hojas de Cálculo, Presentaciones, Formularios, Sites, Keep.
+*   **Herramientas IA:** ChatGPT y Gemini, gestión de documentos con NotebookLM. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos Destacados
+*   **Amigo o Desconocido**: Un programa desarrollado en Python que utiliza lógica condicional para interactuar con el usuario y determinar su relación según las entradas proporcionadas.
+    *   🔗 [Repositorio en GitHub](https://github.com/03930609-3sv/Amigo_o_Desconocido)
+
+
+### Contacto
+*   Celular 77358544
+*   03930609-3@clases.edu.sv
